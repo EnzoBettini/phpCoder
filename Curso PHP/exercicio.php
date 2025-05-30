@@ -26,7 +26,7 @@
     <main class="principal">
         <div class="conteudo">
             <?php
-                include('teste/teste.php'); // colocar no link dir=teste
+                include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php"); // colocar no link dir=teste
             ?>
         </div>
     </main>

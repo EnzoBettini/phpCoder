@@ -22,7 +22,19 @@
                 <div class="modulo verde">
                     <h3>Módulo 1</h3>
                     <ul>
-                        <li><a href="./exercicio.php?dir=teste&file=teste">Exercicio A</a></li>
+                        <li><a href="./exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
+                        <li><a href="./exercicio.php?dir=basico&file=html">Integração HTML</a></li>
+                        <li><a href="./exercicio.php?dir=basico&file=css">Integração CSS</a></li>
+                        <li><a href="./exercicio.php?dir=basico&file=comentario">Comentários PHP</a></li>
+                        <li><a href="./exercicio.php?dir=basico&file=desafio">Desafio</a></li>
+                    </ul>
+                </div>
+                <div class="modulo vermelho">
+                    <h3>Módulo 2</h3>
+                    <ul>
+                        <li><a href="./exercicio.php?dir=tipos&file=int">Tipo: INT</a></li>
+                        <li><a href="./exercicio.php?dir=tipos&file=float">Tipo: FLOAT</a></li>
+                        <li><a href="./exercicio.php?dir=tipos&file=aritimeticas">Aritiméticas</a></li>
                     </ul>
                 </div>
             </nav>
