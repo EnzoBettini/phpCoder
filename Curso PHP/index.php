@@ -34,7 +34,12 @@
                     <ul>
                         <li><a href="./exercicio.php?dir=tipos&file=int">Tipo: INT</a></li>
                         <li><a href="./exercicio.php?dir=tipos&file=float">Tipo: FLOAT</a></li>
+                        <li><a href="./exercicio.php?dir=tipos&file=string">Tipo: STRING</a></li>
+                        <li><a href="./exercicio.php?dir=tipos&file=bool">Tipo: BOOL</a></li>
                         <li><a href="./exercicio.php?dir=tipos&file=aritimeticas">Aritiméticas</a></li>
+                        <li><a href="./exercicio.php?dir=tipos&file=conversao">Conversões</a></li>
+                        <li><a href="./exercicio.php?dir=tipos&file=precedencia">Desafio - precedencia</a></li>
+                        <li><a href="./exercicio.php?dir=tipos&file=desafio_string">Desafio - String</a></li>
                     </ul>
                 </div>
             </nav>
