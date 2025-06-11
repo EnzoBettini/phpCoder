@@ -183,6 +183,61 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>Arrays</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                                Array
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">
+                                Mapa
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=DI">
+                                Desafio: Index
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=DM">
+                                Desafio: Meses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=OP">
+                                Operações
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=DS">
+                                Desafio: Sorteio
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=multi">
+                                Multidimensionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=const">
+                                Constantes
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=POSTGET&nome=Leo">
+                                POST GET
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=comp">
+                                Comparação Arrays
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
