@@ -238,6 +238,51 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>Estruturas de controle 2</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=basico">
+                                Laço For
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=desafiofor">
+                                Desafio: For
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=foreach">
+                                Foreach
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=break">
+                                Break Continue
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=desafioimp">
+                                Desafio: impressão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=dowhile">
+                                DO / DO WHILE
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=desafiotabela">
+                                Desafio: tabela
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Control2&file=desafiotabela2 ">
+                                Desafio: tabela 2
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
